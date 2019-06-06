@@ -63,6 +63,10 @@ Link to the model:
 * [JSON file for structure](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..afS-yIKHXbR17TQw8C2Xcg.uXt5b59MtI43LHYyynQ6x4ySQzz-uytzcqb6tl8kwIG-HGQlTrcEYm5G4b4a32PNag-Px0ZjC63l-SrFeX23KvtsOfXS0lv-hYH0Ek4KPRhp0-mrTr7EGT3P4rVYzX65hXnxXD1MOGUEw9PbJwA5mcWYtPhK4GexH3o1YAHaD-Ce8Q0pKs2J4FEVmhizvEmn.GsLLjqvpck6hnSZlfBDuEA/model_4.json)
 * [HDF5 weight file](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..62CwKxV8pAxpUvpsAcH4yQ.OsFfSDKPw1Lc5cQyfwzJ-RXvMFgIAYAAYI_mIWLQ1nNvHEB-brIJz2rgVCAhHkQxn0pgcj-PlY6Mk0WXkC387eZhXhqdQaaYLP-s7Gm3lpyFT7GdbQ86Q0oMvF8n9nhZsCfIU8fAPwqwASCNzoHZPWOm-BDDnRsKov53mA1E-6FT_NVt0WMn8FOH8dXu87hE.cOlthE4W36oEAbxQ8Ds4OA/model_4.h5)
 
+### Link to kaggle kernel
+
+[using-cnn-detect-pulmonary-disease-in-xray](https://www.kaggle.com/subratasarkar32/using-cnn-detect-pulmonary-disease-in-xray/)
+
 Hope you enjoy using this neural network!
 
 If you feel you can improve this model free free to fork and submit a pull request.
