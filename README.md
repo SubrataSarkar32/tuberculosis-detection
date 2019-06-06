@@ -55,7 +55,7 @@ def give_prediction(filename=''):
             pred = model.predict_classes(img.reshape(-1,100,100,3))
             class_label_list = ['cat','dog','human']
             print(class_label_list[pred[0]])
-            return class_label_list[pred[0]
+            return class_label_list[pred[0]]
 ```
 This cnn is for multi class classifier. In the python notebook just add path to your dataset and load the dataset and it will included for training.
 
