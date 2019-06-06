@@ -2,37 +2,23 @@
 
 Here is a sample prediction run:
 
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_0.png)
-actual: dog
-predicted: dog
+![picture](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..4R8LpY9CCy2mQZ-JFwms9g.Mva0w43IohVN6ETmD5B2dwpBwz0A4U4yy7oA2MooUBmtkqqs8I4zVSKpejuYYWO4dwFZ_s-rcVxIpknGMMOUmIcfruWyaAnhupC6LAQcjyLMTRkPxiIquXIMVl81S_--J2BINunpVoQyDGdCBItwW1LZ3T-wrEuLf11hx-oBgZApUoBm9S_J4ph-3xv4Y97V.MzHxtnP_lQkSb0MDDMxDfQ/__results___files/__results___22_0.png)
+actual: ['PTB']
+predicted: ['PTB']
 
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_2.png)
-actual: cat
-predicted: dog
+![picture](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..4R8LpY9CCy2mQZ-JFwms9g.Mva0w43IohVN6ETmD5B2dwpBwz0A4U4yy7oA2MooUBmtkqqs8I4zVSKpejuYYWO4dwFZ_s-rcVxIpknGMMOUmIcfruWyaAnhupC6LAQcjyLMTRkPxiIquXIMVl81S_--J2BINunpVoQyDGdCBItwW1LZ3T-wrEuLf11hx-oBgZApUoBm9S_J4ph-3xv4Y97V.MzHxtnP_lQkSb0MDDMxDfQ/__results___files/__results___22_2.png)
+actual: ['normal']
+predicted: ['normal']
 
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_4.png)
-actual: dog
-predicted: dog
+![picture](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..4R8LpY9CCy2mQZ-JFwms9g.Mva0w43IohVN6ETmD5B2dwpBwz0A4U4yy7oA2MooUBmtkqqs8I4zVSKpejuYYWO4dwFZ_s-rcVxIpknGMMOUmIcfruWyaAnhupC6LAQcjyLMTRkPxiIquXIMVl81S_--J2BINunpVoQyDGdCBItwW1LZ3T-wrEuLf11hx-oBgZApUoBm9S_J4ph-3xv4Y97V.MzHxtnP_lQkSb0MDDMxDfQ/__results___files/__results___22_4.png)
+actual: ['normal']
+predicted: ['normal']
 
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_6.png)
-actual: cat
-predicted: cat
+![picture](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..4R8LpY9CCy2mQZ-JFwms9g.Mva0w43IohVN6ETmD5B2dwpBwz0A4U4yy7oA2MooUBmtkqqs8I4zVSKpejuYYWO4dwFZ_s-rcVxIpknGMMOUmIcfruWyaAnhupC6LAQcjyLMTRkPxiIquXIMVl81S_--J2BINunpVoQyDGdCBItwW1LZ3T-wrEuLf11hx-oBgZApUoBm9S_J4ph-3xv4Y97V.MzHxtnP_lQkSb0MDDMxDfQ/__results___files/__results___22_6.png)
+actual: ['normal']
+predicted: ['normal']
 
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_8.png)
-actual: dog
-predicted: dog
 
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_10.png)
-actual: cat
-predicted: cat
-
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_12.png)
-actual: dog
-predicted: dog
-
-![picture](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5FDmld9ecdubZUxa_Mmcjg.el0Gs4l8a6UfDOoATFWwd0ARg1rqvakAxgiOyxQxpuMoPzaNv9yU5hx6z53eyoxnn4yhHnKJJm3ZsFu3d8usry46VDRdFXMJt12RADZjfwGI6I7f8z1MkEq2LeCJdPPcxBL2IUMbMxua-wlnPULTMxTLjemxOgmU2YxEoezTwvU.DWU0Nh9VQ11kCQeOr6mKfw/__results___files/__results___21_14.png)
-actual: human
-predicted: human
 
 As we observe for a low number of samples for training this cnn model has produced rather acceptable results.
 
@@ -74,8 +60,8 @@ def give_prediction(filename=''):
 This cnn is for multi class classifier. In the python notebook just add path to your dataset and load the dataset and it will included for training.
 
 Link to the model:
-* [JSON file for structure](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..66g68D3JLPYq0_m8UNG1ig.kgLTuGzleu9xO_UmfJi1c-MN9_BWo0vhsoEoDS_dEm_NJHs5Cln-OAadbyk_gzaN2wHesj-DmmIQXxtn2HLVkTnCQgEFZxDjkfi5UiwGkS8hfR0QTS1ZwX39lsasvBBnEqXq-U1ZYJcawe7K-lXjGJkAzsB6zbBLYbF9bTUdJ0g.RWtTHor1t9VYqItr2_SuJw/model_3.json)
-* [HDF5 weight file](https://www.kaggleusercontent.com/kf/15229318/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..Zbmcs46tpjpPauPg-mxcUg.zkNpjaasCCZBeJ2MSWI7DH7YHPwOcB7jBS4tt6Hs6B0dOTsoEELVza3EUGEVTWBMBFGa9NhANcvrLUXY-BA5wuRINqvp6K-DKGvSKGOx4ezREU9kodK2M51Npq2aBSa-8H0G1GwNTMPpvq6S7-HXWwiHx48MyN979EzaihS2DwM._pFoKmc1-ZLJSDNADkQPZQ/model_3.h5)
+* [JSON file for structure](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..afS-yIKHXbR17TQw8C2Xcg.uXt5b59MtI43LHYyynQ6x4ySQzz-uytzcqb6tl8kwIG-HGQlTrcEYm5G4b4a32PNag-Px0ZjC63l-SrFeX23KvtsOfXS0lv-hYH0Ek4KPRhp0-mrTr7EGT3P4rVYzX65hXnxXD1MOGUEw9PbJwA5mcWYtPhK4GexH3o1YAHaD-Ce8Q0pKs2J4FEVmhizvEmn.GsLLjqvpck6hnSZlfBDuEA/model_4.json)
+* [HDF5 weight file](https://www.kaggleusercontent.com/kf/15272869/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..62CwKxV8pAxpUvpsAcH4yQ.OsFfSDKPw1Lc5cQyfwzJ-RXvMFgIAYAAYI_mIWLQ1nNvHEB-brIJz2rgVCAhHkQxn0pgcj-PlY6Mk0WXkC387eZhXhqdQaaYLP-s7Gm3lpyFT7GdbQ86Q0oMvF8n9nhZsCfIU8fAPwqwASCNzoHZPWOm-BDDnRsKov53mA1E-6FT_NVt0WMn8FOH8dXu87hE.cOlthE4W36oEAbxQ8Ds4OA/model_4.h5)
 
 Hope you enjoy using this neural network!
 
