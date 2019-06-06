@@ -53,7 +53,7 @@ def give_prediction(filename=''):
             img = cv2.imread(path)
             img = cv2.resize(img, (100, 100))
             pred = model.predict_classes(img.reshape(-1,100,100,3))
-            class_label_list = ['cat','dog','human']
+            class_label_list = ['PTB','normal','ATB','tuberculosis pleuritis','NATB','STB','','TB','right upper pneumonia']
             print(class_label_list[pred[0]])
             return class_label_list[pred[0]]
 ```
